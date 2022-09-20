@@ -28,7 +28,7 @@ def index():
 
 
 def generate_prompt(cocktail):
-    return """Create a cocktail recipe based on a list of ingredients. Try to be creative and come up with new cocktail and interesting names.
+    return """Create a cocktail recipe based on a list of ingredients. Try to be creative and come up with new cocktails and interesting names.
 
 Ingredients: Gin, Watermelon
 Recipe: Waterloo Sunset: 7 leaves mint, .5 oz sugar syrup, 1 oz Szechuan Peppercorn–Infused Plymouth Gin, 1 oz Beefeater London Dry Gin, .5 oz Dolin Blanc Vermough, 1.5 oz watermelon juice, 0.75 oz lime juice. Muddle mint, shake with all remaining ingredients. Double rocks glass with large rock, Mint sprig.
